@@ -9,3 +9,7 @@ The staging area makes it possible to define different relationships and changes
 3) How can you use the staging area to make sure you have one commit per logical change?
 
 Because you can compare the new stages to previous commits. If the change is not a logical change, the diff comparison will show. The diff will also tell of the commit contains more than one logical change.
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+For example if the program needs to be made into a different language, or if different modes to a games should be added (like easy-mode)
