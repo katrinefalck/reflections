@@ -10,3 +10,7 @@ Because you might want to review changes before pulling them to the local reposi
 A forks is a kind of "clone" of another person's work on GitHub, that you add as your own reposatory to be able to edit, but there is still a connection to the original one. 
 A clone is a copy of another repository.
 Branches are found within a repository - e.g. when adding a new feature or experimenting with a project.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If the connection to the remote state fails, it is still possible to correct the state.
