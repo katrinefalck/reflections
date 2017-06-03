@@ -7,6 +7,7 @@ When working on a project with other people, or from several computers.
 Because you might want to review changes before pulling them to the local repository.
 
 3) Describe the difference between forks, clones, and branches. When would you use one instead of another?
+
 A forks is a kind of "clone" of another person's work on GitHub, that you add as your own reposatory to be able to edit, but there is still a connection to the original one. 
 A clone is a copy of another repository.
 Branches are found within a repository - e.g. when adding a new feature or experimenting with a project.
@@ -14,3 +15,7 @@ Branches are found within a repository - e.g. when adding a new feature or exper
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
 If the connection to the remote state fails, it is still possible to correct the state.
+
+5) How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+
+Maybe sending the file back and forth.. Or working on it seperately and comparing in the end. The hard part would be that a lot of code should be compared.. The easy part is if there is only one file, then there is nothing to compare.
