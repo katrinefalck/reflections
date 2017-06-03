@@ -20,3 +20,7 @@ It shows how the different branches are connected, as well as in with commit a b
 6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is that the new branch now is a combination of the two branches that have been merged together. We represent it in the diagram to get a clear overview of how the branches are connected and what will happen if two branches is merged.
+
+7) What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+The pros are that you can merge branches quickly. 
