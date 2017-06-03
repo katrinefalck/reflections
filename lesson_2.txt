@@ -16,3 +16,7 @@ For example if the program needs to be made into a different language, or if dif
 
 5) How do the diagrams help you vizualize the branch structure?
 It shows how the different branches are connected, as well as in with commit a branch is created. --> So it shows which commits are "related" and which are not (in different branches)
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that the new branch now is a combination of the two branches that have been merged together. We represent it in the diagram to get a clear overview of how the branches are connected and what will happen if two branches is merged.
