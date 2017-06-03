@@ -13,3 +13,6 @@ Because you can compare the new stages to previous commits. If the change is not
 4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 For example if the program needs to be made into a different language, or if different modes to a games should be added (like easy-mode)
+
+5) How do the diagrams help you vizualize the branch structure?
+It shows how the different branches are connected, as well as in with commit a branch is created. --> So it shows which commits are "related" and which are not (in different branches)
