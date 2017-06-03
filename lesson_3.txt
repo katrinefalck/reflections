@@ -19,3 +19,7 @@ If the connection to the remote state fails, it is still possible to correct the
 5) How would you collaborate without using Git or Github? What would be easier, and what would be harder?
 
 Maybe sending the file back and forth.. Or working on it seperately and comparing in the end. The hard part would be that a lot of code should be compared.. The easy part is if there is only one file, then there is nothing to compare.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If it is a function that doesn't directly relate to the master functionality of the product. Fx if it is the product in another language, or some kind of experimental function that is not certain will work. The benefits of using branches is that you can work on several versions at the same time witout risking the master version not functioning. 
